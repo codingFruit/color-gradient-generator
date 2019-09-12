@@ -1,0 +1,19 @@
+{
+  "name": "color-gradient-generator",
+  "version": "1.0.0",
+  "description": "A simple app that lets you pick two colors and then creates a gradient off of your choices.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stone-coder/color-gradient-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stone-coder/color-gradient-generator/issues"
+  },
+  "homepage": "https://github.com/stone-coder/color-gradient-generator#readme"
+}
